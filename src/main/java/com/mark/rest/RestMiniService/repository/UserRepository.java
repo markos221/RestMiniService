@@ -1,4 +1,3 @@
-
 package com.mark.rest.RestMiniService.repository;
 
 import com.mark.rest.RestMiniService.domain.User;
